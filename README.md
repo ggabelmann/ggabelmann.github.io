@@ -2,5 +2,6 @@ I am a Senior Software Engineer with over a decade of Java experience. Currently
 
 ## Links
 
-https://github.com/ggabelmann/
-https://linkedin.com/in/greg-gabelmann-1878574
+[Github Profile](https://github.com/ggabelmann/)
+
+[LinkedIn Profile](https://linkedin.com/in/greg-gabelmann-1878574)
