@@ -4,6 +4,13 @@ I am a Senior Software Engineer with over a decade of Java experience. Currently
 
 This page is a work in progress.
 
+## I like to:
+
+* Do "full lifecycle" development because every part of software engineering is important and necessary.
+* Frequently release projects to Production.
+* Work with people who are good at their jobs.
+* Create my own software libraries to understand how things really work. (See my [Github Profile](https://github.com/ggabelmann/) for some examples.)
+
 ## Testimonials
 
 > Working with Greg on the same team, I found his technical command impressive and the quality of his work always top-notch. He was a good team player who nevertheless could be counted on to come forward with great ideas if need be.
