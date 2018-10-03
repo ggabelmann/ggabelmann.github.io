@@ -6,10 +6,17 @@ This page is a work in progress.
 
 ## I like to:
 
-* Do "full lifecycle" development because every part of software engineering is important and necessary.
+* Do "full lifecycle" development because every part of software engineering is important, interesting, and necessary.
 * Frequently release projects to Production.
 * Work with people who are good at their jobs.
 * Create my own software libraries to understand how things really work. (See my [Github Profile](https://github.com/ggabelmann/) for some examples.)
+
+## Posts
+
+From time-to-time I like to write short emails to friends and colleagues about interesting things I've read or learned. (They're also a handy references for me to go back to.) Since I'm not on social media these days I've collected some of them here as "posts".
+
+* [Special Theory of Productivity](productivity.md)
+* [One-on-One Meetings](one-on-one.md)
 
 ## Testimonials
 
