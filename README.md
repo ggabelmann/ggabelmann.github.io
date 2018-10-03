@@ -7,8 +7,8 @@ This page is a work in progress.
 ## I like to:
 
 * Do "full lifecycle" development because every part of software engineering is important, interesting, and necessary.
-* Frequently release projects to Production.
-* Work with people who are good at their jobs.
+* Release projects to Production frequently.
+* Work with people who are good at their jobs and take time to help each other.
 * Create my own software libraries to understand how things really work. (See my [Github Profile](https://github.com/ggabelmann/) for some examples.)
 
 ## Posts
