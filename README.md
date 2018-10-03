@@ -16,7 +16,7 @@ This page is a work in progress.
 From time-to-time I like to write short emails to friends and colleagues about interesting things I've read or learned. (They're also a handy references for me to go back to.) Since I'm not on social media these days I've collected some of them here as "posts".
 
 * [Special Theory of Productivity](productivity.md)
-* [One-on-One Meetings](one-on-one.md)
+* [One-on-One Meetings](one-on-ones.md)
 
 ## Testimonials
 
