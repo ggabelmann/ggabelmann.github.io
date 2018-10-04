@@ -4,7 +4,7 @@ I call this my "special theory of productivity" because it is focused on the pro
 
 ## Responsibilities... and Authority?
 
-Everyone talks about responsibilities, and job postings have endless lists of them, but no one talks about the authority people have. Or to put it in another way, does anyone have any authority? Can anyone actually decide something and not be passive-aggressively ignored?
+Everyone talks about responsibilities, and job postings have endless lists of them, but no one talks about the authority that people have. Or to put it in another way, does anyone have any authority? Can anyone actually decide something and not be passive-aggressively ignored?
 
 In my experience, people react in two ways to being told they have to participate at work, but then are basically ignored:
 * They quit.
@@ -37,11 +37,11 @@ Note: "agile" is basically all about fixing the areas of Cost, Quality, and Time
 
 ## To Summarize
 
-1. Determine which people have some kind of authority.
+1. Determine which people have authority.
 1. Determine who is paying for things, who wants things to be built, and who can build them.
 1. Decide on an area (Cost, Quality, Scope, or Time) that can change dynamically.
 
-Crucially, the 3rd point is the hardest because who gets to decide it? If there is no clear authority then the PM could, for example, announce that refactoring and unit tests are too expensive implement, so they are cut. Or the opposite could occur, where the team says they need a few months to do a big refactor, so that is that.
+Crucially, the 3rd point is the hardest because who gets to decide it? Ideally, consensus is reached amongst the "three types of people" because none of them can overrule the others.
 
 ## To Summarize the Summary
 
