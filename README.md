@@ -17,6 +17,7 @@ From time-to-time I like to write short emails to friends and colleagues about i
 
 * [Special Theory of Productivity](productivity.md)
 * [One-on-One Meetings](one-on-ones.md)
+* [Value types and Shifting Boundaries](values.md)
 
 ## Testimonials
 
