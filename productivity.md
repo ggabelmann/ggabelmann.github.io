@@ -1,16 +1,14 @@
-## Special Theory of Productivity
+# Special Theory of Productivity
 
 I call this my "special theory of productivity" because it is focused on the problems I've seen with productively creating software in a team (and "agile") environment.
 
 ## Responsibilities... and Authority?
 
-Everyone talks about responsibilities, and job postings have endless lists of them, but no one talks about what authority each person on the team has.
+Everyone talks about responsibilities, and job postings have endless lists of them, but no one talks about the authority people have. Or to put it in another way, does anyone have any authority? Can anyone actually decide something and not be passive-aggressively ignored?
 
-
-Balance of power
-Resentment, quit
-Give up, stay but things fall apart
-
+In my experience, people react in two ways to being told they have to participate at work, but then are basically ignored:
+* They quit.
+* They put in the absolute minimum effort to keep their job -- they "tune out".
 
 ## The Three Types of People At Work
 
@@ -22,21 +20,29 @@ Sometimes a single person will know what to build and have the money. Oftentimes
 
 Another danger is that the wrong people end up arguing with each other, which happened at a company I worked at. The architect wanted a new feature added to the project so we estimated it would take a month. But then the PO asked us to justify its inclusion, instead of the architect (who is the person who wanted it to be built). Since we were the people who were building it, not the person who wanted it, we couldn't explain why it was necessary. So it got cut.
 
-## Pick Three
+## Pick Any Three
 
-It'd be nice to build a competitor to Apple in a month, but that's impossible because you can only control three out of the following four:
+It'd be nice to build a competitor to Apple in a month, but that's impossible because you can only control three areas out of the following four:
 
 Area | Comments
 ---- | --------
-Cost | The amount of money being spent.
+Cost | The amount of money being spent (usually relates to the number of people involved).
 Quality | The quality of the software's implementation.
 Scope | The software's features.
 Time | How much time the team has.
 
+Specifically, it is the team of software engineers, testers, etc, that has control over the software's quality.
 
-## To Wrap Up
+Note: "agile" is basically all about fixing the areas of Cost, Quality, and Time, but allowing Scope to change dynamically.
 
-choose 3 out of 4, make sure the right 3 people are talking, and figure out everyone's responsibilities and who has what kind of authority.
+## To Summarize
 
+1. Determine which people have some kind of authority.
+1. Determine who is paying for things, who wants things to be built, and who can build them.
+1. Decide on an area (Cost, Quality, Scope, or Time) that can change dynamically.
 
-end
+Crucially, the 3rd point is the hardest because who gets to decide it? If there is no clear authority then the PM could, for example, announce that refactoring and unit tests are too expensive implement, so they are cut. Or the opposite could occur, where the team says they need a few months to do a big refactor, so that is that.
+
+## To Summarize the Summary
+
+Clarity and productivity go hand-in-hand. Passive-aggressiveness will destroy your company.
