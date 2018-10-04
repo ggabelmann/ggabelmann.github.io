@@ -41,8 +41,8 @@ Note: "agile" is basically all about fixing the areas of Cost, Quality, and Time
 1. Determine who is paying for things, who wants things to be built, and who can build them. (Should be the people with authority.)
 1. Decide on an area (Cost, Quality, Scope, or Time) that can change dynamically.
 
-Crucially, the 3rd point is the hardest because who gets to decide it? Ideally, consensus is reached amongst the "three types of people" because none of them can overrule the others. They should have equal amounts of authority.
+Crucially, the 3rd point is the hardest because who gets to decide it? Ideally, consensus is reached amongst the "three types of people" because none of them can overrule the others -- they should have equal amounts of authority. Disagreements can, and should, happen. But consensus must be reached.
 
 ## To Summarize the Summary
 
-Clarity and productivity go hand-in-hand. Passive-aggressiveness will destroy your company.
+Clarity and productivity go hand-in-hand. Passive-aggressiveness will destroy a company.
