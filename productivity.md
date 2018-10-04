@@ -38,10 +38,10 @@ Note: "agile" is basically all about fixing the areas of Cost, Quality, and Time
 ## To Summarize
 
 1. Determine which people have authority.
-1. Determine who is paying for things, who wants things to be built, and who can build them.
+1. Determine who is paying for things, who wants things to be built, and who can build them. (Should be the people with authority.)
 1. Decide on an area (Cost, Quality, Scope, or Time) that can change dynamically.
 
-Crucially, the 3rd point is the hardest because who gets to decide it? Ideally, consensus is reached amongst the "three types of people" because none of them can overrule the others.
+Crucially, the 3rd point is the hardest because who gets to decide it? Ideally, consensus is reached amongst the "three types of people" because none of them can overrule the others. They should have equal amounts of authority.
 
 ## To Summarize the Summary
 
