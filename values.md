@@ -1,4 +1,4 @@
-## Work In Progress
+# Functional Objects and Shifting Boundaries
 
 Gary Bernhardt's [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) talk is rightfully famous. But what does he mean when he 
 says that values allow boundaries to shift?
