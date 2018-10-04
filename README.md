@@ -1,9 +1,5 @@
 I am a Senior Software Engineer with over a decade of Java experience. Currently seeking remote contract work -- I can be reached at greg.gabelmann@gmail.com or through my profiles at LinkedIn or Github (see below).
 
-## WIP
-
-This page is a work in progress.
-
 ## I like to:
 
 * Do "full lifecycle" development because every part of software engineering is important, interesting, and necessary.
