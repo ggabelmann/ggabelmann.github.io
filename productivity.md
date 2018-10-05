@@ -12,13 +12,13 @@ In my experience, people react in two ways to being told they have to participat
 
 ## The Three Types of People At Work
 
-* The person with the money.
+* The person with the money. [1]
 * The person who wants something built.
 * The person who can build it.
 
-Sometimes a single person will know what to build and have the money. Oftentimes the person who can build it is a team of software engineers, testers, designers, writers, operations, etc. But at the end of the day those three "people" have to have consensus about the project. Leaving out one or two of them during decision making is only going to lead to problems because assumptions will be made. For example, the PM and PO deciding amongst themselves that a bunch of features can be done in the next quarter.
+Sometimes a single person will know what they want built and have the money. Oftentimes the person who can build it is a team of software engineers, testers, designers, writers, operations, etc. But at the end of the day those three "people" have to have consensus about the project. Leaving out one or two of them during decision making is only going to lead to problems because assumptions will be made. For example, the PM and PO deciding amongst themselves that a bunch of features can be done in the next quarter.
 
-Another danger is that the wrong people end up arguing with each other, which happened at a company I worked at. The architect wanted a new feature added to the project so we estimated it would take a month. But then the PO asked us to justify its inclusion, instead of the architect (who is the person who wanted it to be built). Since we were the people who were building it, not the person who wanted it, we couldn't explain why it was necessary. So it got cut.
+Another danger is that the wrong people end up arguing with each other, which happened at a company I worked at. The architect wanted a new feature added to the project so we estimated it would take a month. But then the PO asked us to justify its inclusion, instead of the architect (who is the person who wanted it to be built in the first place). We couldn't explain why it was necessary since we were the people who were building it. So it got cut.
 
 ## Pick Any Three
 
@@ -33,7 +33,7 @@ Time | How much time the team has.
 
 Specifically, it is the team of software engineers, testers, etc, that has control over the software's quality.
 
-Note: "agile" is basically all about fixing the areas of Cost, Quality, and Time, but allowing Scope to change dynamically.
+Note: "agile" is basically all about fixing the areas of Cost, Quality, and Time, but allowing Scope to change dynamically. [2]
 
 ## To Summarize
 
@@ -46,3 +46,9 @@ Crucially, the 3rd point is the hardest because who gets to decide it? Ideally, 
 ## To Summarize the Summary
 
 Clarity and productivity go hand-in-hand. Passive-aggressiveness will destroy a company.
+
+## Footnotes
+
+[1] I thought about including a fourth "person" who can decide how much time to devote to different tasks but I think it's an implicit part of controlling money.
+
+[2] In something like Scrum usually the size of the team is fixed (Cost), some amount of time is spent designing the code and writing tests (Quality), and Sprints are two weeks (Time). Based on feedback from the Customer the Scope can then be prioritized every Sprint.
