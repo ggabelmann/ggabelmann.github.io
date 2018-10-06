@@ -27,6 +27,7 @@ From time-to-time I like to write short emails to friends and colleagues about i
 
 * [Github Profile](https://github.com/ggabelmann/)
 * [LinkedIn Profile](https://linkedin.com/in/greg-gabelmann-1878574)
+* [Resume](greg_gabelmann_resume.pdf) (PDF)
 
 ## Interests
 
