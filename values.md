@@ -19,15 +19,17 @@ final String s = "hello";
 final String r = s.concat(" world"); // s is unchanged
 ```
 
+I call that a "functional object", but another name for it could be "value". [1]
+
 ## Functional Core
 
-Having a core of "functional objects" has a lot of benefits:
+Having a core of functional objects has many benefits:
 * Objects are immutable which makes them easier to reason about and share amongst threads.
 * There is no hidden state that affects the result of a function.
 * There are no side-effects to calling a function.
 * They are easy to unit test.
 
-The last benefit, that they are easy to unit test, is important. Without hidden state (eg, a network connection, a test DB, a tmp dir, etc) the "functional objects" are easy to setup and run tests against them. There is little need for mocks/stubs because plain old objects can be used.
+The last benefit, that they are easy to unit test, is important. Without hidden state (eg, a network connection, a test DB, a tmp dir, etc) the functional objects are easy to setup and run tests against them. There is little need for mocks/stubs because plain old objects can be used.
 
 ## Imperative Shell
 
@@ -46,7 +48,7 @@ The imperative shell acts as a boundary between the functional core and the outs
 For example, if the application is waiting for the user to press a key then the result will likely be an integer. That could range from an `int` (a value/primitive), to an `Integer` (a simple functional object), or even to a `KeyPress` (a more complex functional object).
 
 The boundary between the application and the outside world therefor shifts depending on which functional objects are used. For example:
-* A distributed system that is able to read/write high-level values (ie, functional objects) vs. one that can't share information. [1]
+* A distributed system that is able to read/write high-level values (ie, functional objects) vs. one that can't share information. [2]
 * An image editor that uses a robust image format for its work vs. one that is only able to read/write bitmaps.
 * A container system (eg, Docker) that uses a configuration file with many options vs. a system that can only read TAR files.
 
@@ -59,4 +61,6 @@ Using functional objects in an application has some major benefits:
 
 ## Footnotes
 
-[1] A useful feature for a distributed system is the ability to share high-level information between its nodes. But why can't non-functional objects be shared? I'm not saying they can't be, just that it's probably harder to de/serialize them. If an object has a whole graph of references inside it that refer to services, streams of IO, etc, then how can it be shared with other distributed nodes? A functional object on the other hand is basically just a graph of primitives, something that is easy to de/serialize.
+[1] One definition of a value is: a thing which can't be tested for equality by testing pointers/references, instead its value has to be tested. A functional object can then be called a value if it's composed of a graph of values. Whereas if it has references to services/etc then those can't be converted to values and tested, so it's not a value.
+
+[2] A useful feature for a distributed system is the ability to share high-level information between its nodes. But why can't non-functional objects be shared? I'm not saying they can't be, just that it's probably harder to de/serialize them. If an object has a whole graph of references inside it that refer to services, streams of IO, etc, then how can it be shared with other distributed nodes? A functional object on the other hand is basically just a graph of primitives, something that is easy to de/serialize.
