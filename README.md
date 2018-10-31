@@ -26,6 +26,8 @@ From time-to-time I like to write short emails to friends and colleagues about i
 ## Links
 
 * [Github Profile](https://github.com/ggabelmann/)
+  * [jcrawl](https://github.com/ggabelmann/jcrawl) is a simple web crawler, written in java, that tries to follow the principles of "functional core, imperative shell".
+  * [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution) is a small project to allow for experimentation with neural networks via evolution.
 * [LinkedIn Profile](https://linkedin.com/in/greg-gabelmann-1878574)
 * [Upwork Profile](https://www.upwork.com/o/profiles/users/_~0181d482db59095389/)
 * [Resume](greg_gabelmann_resume.pdf) (PDF)
