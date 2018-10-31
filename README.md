@@ -5,7 +5,7 @@ I have over a decade of experience delivering multi-tier applications. My expert
 * Do "full lifecycle" development because every part of software engineering is important, interesting, and necessary.
 * Release projects to Production frequently.
 * Work with people who are results-focused, but also take time to help each other.
-* Create my own software libraries to understand how things really work. (See my [Github Profile](https://github.com/ggabelmann/) for some examples.)
+* Create my own software libraries to understand how things really work. (See my [Github Profile](https://github.com/ggabelmann/) for some examples, like [jcrawl](https://github.com/ggabelmann/jcrawl) (a java-based web crawler) and [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution) (a java-based neural network that can evolve).)
 
 ## Posts
 
@@ -26,8 +26,6 @@ From time-to-time I like to write short emails to friends and colleagues about i
 ## Links
 
 * [Github Profile](https://github.com/ggabelmann/)
-  * [jcrawl](https://github.com/ggabelmann/jcrawl) is a simple web crawler, written in java, that tries to follow the principles of "functional core, imperative shell".
-  * [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution) is a small project to allow for experimentation with neural networks via evolution.
 * [LinkedIn Profile](https://linkedin.com/in/greg-gabelmann-1878574)
 * [Upwork Profile](https://www.upwork.com/o/profiles/users/_~0181d482db59095389/)
 * [Resume](greg_gabelmann_resume.pdf) (PDF)
