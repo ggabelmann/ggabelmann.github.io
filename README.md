@@ -5,7 +5,14 @@ I have over a decade of experience delivering multi-tier applications. My expert
 * Do "full lifecycle" development because every part of software engineering is important, interesting, and necessary.
 * Release projects to Production frequently.
 * Work with people who are results-focused, but also take time to help each other.
-* Create my own software libraries to understand how things really work. (See my [Github Profile](https://github.com/ggabelmann/) for some examples, like [jcrawl](https://github.com/ggabelmann/jcrawl) (a java-based web crawler) and [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution) (a java-based neural network that can evolve).)
+* Create my own software libraries to understand how things really work.
+
+## Projects
+
+Most of my side-projects are open source and available from my [Github Profile](https://github.com/ggabelmann/). Two of the more important ones are:
+
+* [jcrawl](https://github.com/ggabelmann/jcrawl), a java-based web crawler that supports threads and rate-limiting.
+* [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution), a java-based neural network that can evolve.
 
 ## Posts
 
