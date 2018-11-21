@@ -9,10 +9,11 @@ I have over a decade of experience delivering multi-tier applications. My expert
 
 ## Projects
 
-Most of my side-projects are open source and available from my [Github Profile](https://github.com/ggabelmann/). Two of the more important ones are:
+Most of my side-projects are open source and available from my [Github Profile](https://github.com/ggabelmann/). Some of the more important ones are:
 
 * [jcrawl](https://github.com/ggabelmann/jcrawl), a java-based web crawler that supports threads and rate-limiting.
 * [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution), a java-based neural network that can evolve.
+* [NetpbmTools](https://github.com/ggabelmann/NetpbmTools), an F#-based tool for doing simple manipulations to images.
 
 ## Posts
 
