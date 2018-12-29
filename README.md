@@ -1,8 +1,8 @@
-I have over a decade of experience delivering multi-tier applications. My expertise is with Java and other server-side technology, but over the years I've worked with numerous languages and frameworks. Currently seeking remote contract work -- I can be reached at greg.gabelmann@gmail.com or through my profiles at LinkedIn or Github (see below).
+I have over a decade of experience delivering multi-tier applications. My expertise is with Java and other server-side technology, but over the years I've worked with numerous languages and frameworks. Currently seeking remote full-time and/or contract work -- I can be reached at greg.gabelmann@gmail.com or through my profiles at LinkedIn or Github (see below).
 
 ## I like to:
 
-* Do "full lifecycle" development because every part of software engineering is important, interesting, and necessary.
+* Participate in all phases of the software development life-cycle because every part is important, interesting, and necessary.
 * Release projects to Production frequently.
 * Work with people who are results-focused, but also take time to help each other.
 * Create my own software libraries to understand how things really work.
@@ -12,8 +12,8 @@ I have over a decade of experience delivering multi-tier applications. My expert
 Most of my side-projects are open source and available from my [Github Profile](https://github.com/ggabelmann/). Some of the more important ones are:
 
 * [jcrawl](https://github.com/ggabelmann/jcrawl), a java-based web crawler that supports threads and rate-limiting.
-* [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution), a java-based neural network that can evolve.
 * [NetpbmTools](https://github.com/ggabelmann/NetpbmTools), an F#-based tool for doing simple manipulations to images.
+* [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution), a java-based neural network that can evolve.
 
 ## Posts
 
