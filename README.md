@@ -9,15 +9,15 @@ I have over a decade of experience delivering multi-tier applications. My expert
 
 ## Projects
 
-Most of my side-projects are open source and available from my [Github Profile](https://github.com/ggabelmann/). Some of the more important ones are:
+Most of my side-projects are open source and available from my [Github Profile](https://github.com/ggabelmann/). Some of the more interesting ones are:
 
 * [jcrawl](https://github.com/ggabelmann/jcrawl), a java-based web crawler that supports threads and rate-limiting.
 * [NetpbmTools](https://github.com/ggabelmann/NetpbmTools), an F#-based tool for doing simple manipulations to images.
 * [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution), a java-based neural network that can evolve.
 
-## Posts
+## Technical Writing
 
-From time-to-time I like to write short emails to friends and colleagues about interesting things I've read or learned. (They're also handy references for me to go back to.) Since I'm not on social media these days I've collected some of them here as "posts".
+I enjoy writing about interesting things I've recently read or learned. (They're also handy references for me to go back to.) Since I'm not on social media these days I've collected some of them here:
 
 * [Special Theory of Productivity](productivity.md)
 * [One-on-One Meetings](one-on-ones.md)
@@ -40,7 +40,7 @@ From time-to-time I like to write short emails to friends and colleagues about i
 
 ## Interests
 
-* [Photography](https://s3.amazonaws.com/ggabelmann/index.html)
+* [Photography](https://s3.amazonaws.com/ggabelmann/portfolio/index.html)
 * [Travel](https://s3.amazonaws.com/ggabelmann/travel/index.html)
 * Aprendiendo español
 * [VOKRA](http://www.orphankittenrescue.com/)
