@@ -1,4 +1,4 @@
-I have over a decade of experience delivering multi-tier applications. My expertise is with Java and other server-side technology, but over the years I've worked with numerous languages and frameworks. Currently seeking remote full-time and/or contract work -- I can be reached at greg.gabelmann@gmail.com or through my profiles at LinkedIn or Github (see below).
+I have over a decade of experience delivering multi-tier applications. My expertise is with Java and other server-side technology, but over the years I've worked with numerous languages and frameworks. Currently seeking remote full-time and/or contract work -- I can be reached at <a href="mailto:greg.gabelmann@gmail.com"/>greg.gabelmann@gmail.com</a> or through my profiles at LinkedIn or Github (see below).
 
 ## I like to:
 
