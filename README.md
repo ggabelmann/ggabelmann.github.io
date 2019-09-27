@@ -2,6 +2,7 @@ I have over a decade of experience delivering multi-tier applications. My expert
 
 ## I like to:
 
+* Be professional and positive, which I shouldn't have to say, but I've worked with people who do nothing but complain about everything.
 * Participate in all phases of the software development life-cycle because every part is important, interesting, and necessary.
 * Release projects to Production frequently.
 * Work with people who are results-focused, but also take time to help each other.
@@ -14,6 +15,11 @@ Most of my side-projects are open source and available from my [Github Profile](
 * [jcrawl](https://github.com/ggabelmann/jcrawl), a java-based web crawler that supports threads and rate-limiting.
 * [NetpbmTools](https://github.com/ggabelmann/NetpbmTools), an F#-based tool for doing simple manipulations to images.
 * [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution), a java-based neural network that can evolve.
+
+When I can find some time I'd like to:
+
+* Write a [parser combinator](https://en.wikipedia.org/wiki/Parser_combinator) library in Java. PCs make it easy to write little Domain Specific Languages, which are fascinating in their own right.
+* Learn [Rust](https://www.rust-lang.org/) and write a server for the [Network Block Device](https://en.wikipedia.org/wiki/Network_block_device) protocol.
 
 ## Technical Writing
 
