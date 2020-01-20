@@ -13,12 +13,12 @@ I have over a decade of experience delivering multi-tier applications. My expert
 Most of my side-projects are open source and available from my [Github Profile](https://github.com/ggabelmann/). Some of the more interesting ones are:
 
 * [jcrawl](https://github.com/ggabelmann/jcrawl), a java-based web crawler that supports threads and rate-limiting.
+* [ParserCombinator](https://github.com/ggabelmann/ParserCombinator), a POC of a Java parser combinator library that makes it easy to write little Domain Specific Languages.
 * [NetpbmTools](https://github.com/ggabelmann/NetpbmTools), an F#-based tool for doing simple manipulations to images.
-* [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution), a java-based neural network that can evolve.
 
 When I can find some time I'd like to:
 
-* Write a [parser combinator](https://en.wikipedia.org/wiki/Parser_combinator) library in Java. PCs make it easy to write little Domain Specific Languages, which are fascinating in their own right.
+* Work on [NeuroEvolution](https://github.com/ggabelmann/NeuroEvolution), a java-based neural network that can evolve.
 * Learn [Rust](https://www.rust-lang.org/) and write a server for the [Network Block Device](https://en.wikipedia.org/wiki/Network_block_device) protocol.
 
 ## Technical Writing
